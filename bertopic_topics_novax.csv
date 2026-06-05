@@ -1,0 +1,25 @@
+topic_id,semantic_label,top_terms_clean,n_documents,pct_phase_1_Jan_Jul_2021,pct_phase_2_Aug2021_Jun2022,pct_phase_3_Jun2022_May2023,pct_phase_4_May2023_Dec2024,pct_phase_5_Jan2025_May2026
+0,Piano di Rinascita / national identity,rinascita | piano rinascita | umanità | identità | sovranità,14036,37.392,37.163,41.586,34.82,31.445
+1,COVID vaccines & Green Pass,vaccino | covid | pass | green pass | green | vaccini | covid 19 | 2021,5921,28.67,25.341,10.676,7.622,5.995
+2,"Geopolitics: Gaza, Ukraine, Iran",israele | gaza | guerra | ucraina | russia | iran,5414,4.171,8.643,11.404,18.149,26.386
+3,China & alternative platforms,cina | piattaforme | unisciti | canale | chat,3607,7.191,8.189,11.326,10.386,9.533
+4,"Climate, energy & electric cars",auto | clima | energia | cambiamento climatico | co2,1504,1.706,1.977,4.798,6.838,4.0
+5,"US politics: Trump, Biden, Epstein",trump | biden | epstein | presidente | musk | donald | donald trump | joe,1237,2.844,1.443,2.835,3.83,4.9
+6,Child safety & abuse concerns,bambini | minori | polizia | sessuale | bambino,1173,5.187,2.311,2.25,2.532,3.003
+7,Vaccine doses & adverse effects,dose | dosi | mia | seconda | seconda dose | pfizer | terza | avuto,929,2.194,4.715,4.382,0.887,0.097
+8,"Pope, Church & Vatican",papa | chiesa | vaticano | papa francesco | bergoglio | dio,885,3.034,1.536,1.756,2.455,2.675
+9,Humour & light content,umore | alleggerire | leggerezza | interazione | vissuta,812,2.952,2.471,2.068,2.082,1.07
+10,5G & Artificial Intelligence,5g | intelligenza artificiale | digitale | cervello | scienza,517,0.704,0.975,1.079,2.301,1.581
+11,Natural products & supplements,olio | naturale | insetti | acqua | ingredienti | pelle,507,0.501,0.441,1.183,1.632,2.663
+12,Transgender & gender ideology,transgender | genere | trans | gender | donne | sesso,497,1.72,0.494,1.404,1.761,1.07
+13,Fundraising & donations,donazioni | natale | donazione | sostegno | libera donazione,334,0.42,0.948,0.598,0.617,1.678
+14,Italians abroad (Australia),australia | nutrizionista | pensioni | italiano | euro,239,0.108,0.2,0.377,0.334,1.958
+15,Channel links & sharing invites,unisciti nostro | share_group_link | ref share_group_link | com groups | groups | ref | www facebook | facebook com,200,0.135,0.067,0.598,1.761,0.024
+16,Abortion & reproductive rights,aborto | gravidanza | donne | aborti | abortion,174,0.447,0.414,0.468,0.373,0.547
+17,Canada truckers' protest,canada | australia | trudeau | camionisti | canadese | justin trudeau | justin | melbourne,141,0.271,0.908,0.299,0.206,0.17
+18,Excess mortality & deaths,mortalità | eccesso | morti | decessi | 2021 | morti eccesso | eccesso mortalità | dati,95,0.176,0.361,0.455,0.219,0.036
+19,Pinned messages / channel admin,fissati alto | messaggi fissati | fissati | leggi messaggi | filo arianna | benvenuto | arianna | messaggi,79,0.027,1.029,0.0,0.0,0.0
+20,War photojournalism,fotoreporter | aggiornamenti | guerra | fotografia,77,0.0,0.067,0.026,0.373,0.499
+21,Animals & pet welfare,animali | cani | cane | orso | gatti | esperimenti,74,0.081,0.107,0.065,0.244,0.438
+22,Farmers' protests,agricoltori | protesta | contadini | francia | proteste | olandesi | protesta agricoltori | trattori,62,0.054,0.0,0.247,0.36,0.134
+23,Djokovic & sport,djokovic | novak | tennis | sport | australian open,50,0.014,0.2,0.117,0.219,0.097

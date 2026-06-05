@@ -1,0 +1,64 @@
+signal_id,signal_name,weight,regex_pattern,plain_text_examples,function_in_discourse
+Signal 1,Anti-vaccine / COVID-specific,4,vaccin,"vaccino, vaccini, vaccinazione, vaccinato, no-vaccino",Core vaccine lexical root
+Signal 1,Anti-vaccine / COVID-specific,4,no.?vax|antivax|anti.vax,"no vax, no-vax, novax, antivax, anti-vax",Community self-labelling
+Signal 1,Anti-vaccine / COVID-specific,4,covid|sars.?cov|coronavirus,"covid, covid-19, SARS-CoV-2, coronavirus",Disease name
+Signal 1,Anti-vaccine / COVID-specific,4,green.?pass|pass.verde,"green pass, greenpass, pass verde",Italian Green Pass policy
+Signal 1,Anti-vaccine / COVID-specific,4,mrna,mRNA,Vaccine technology identifier
+Signal 1,Anti-vaccine / COVID-specific,4,pfizer|moderna|astrazeneca|biontech|vaxzevria|nuvaxovid|j&j|johnson,"Pfizer, Moderna, AstraZeneca, BioNTech, Vaxzevria, Nuvaxovid, J&J",Vaccine brand names
+Signal 1,Anti-vaccine / COVID-specific,4,siero|dose\b|dosi\b|inoculaz,"siero, dose, dosi, inoculazione",Vaccination act vocabulary
+Signal 1,Anti-vaccine / COVID-specific,4,effetti.collateral|reazione.avversa|adverse,"effetti collaterali, reazione avversa",Adverse event framing
+Signal 1,Anti-vaccine / COVID-specific,4,ivermect|idrossicloroch|cloroch,"ivermectina, idrossiclorochina, clorochina",Alternative treatment claims
+Signal 1,Anti-vaccine / COVID-specific,4,obbligo.vaccin|decreto.vaccin|obbligatoriet,"obbligo vaccinale, decreto vaccini",Vaccine mandate framing
+Signal 1,Anti-vaccine / COVID-specific,4,spike.protein|proteina.spike,"spike protein, proteina spike",Immunological adverse-event term
+Signal 1,Anti-vaccine / COVID-specific,4,danno.vaccin|danni.vaccin|mortalit.+vaccin|morti.vaccin,"danno da vaccino, morti da vaccino",Injury/mortality attribution
+Signal 1,Anti-vaccine / COVID-specific,4,pcr\b|tampone|positivo\b,"PCR, tampone, positivo",Diagnostic testing scepticism
+Signal 1,Anti-vaccine / COVID-specific,4,lockdown|quarantena|isolamento.obbligatorio|restrizioni\b,"lockdown, quarantena, restrizioni",Policy restriction vocabulary
+Signal 1,Anti-vaccine / COVID-specific,4,museruola\b,museruola,Derogatory mask term (high specificity)
+Signal 1,Anti-vaccine / COVID-specific,4,burioni\b|bassetti\b|crisanti\b,"Burioni, Bassetti, Crisanti",Named virologists cited adversarially
+Signal 1,Anti-vaccine / COVID-specific,4,omissione.soccorso,omissione di soccorso,Legal formula used in no-vax campaigns
+Signal 1,Anti-vaccine / COVID-specific,4,esenzione.vaccin,esenzione vaccinale,Vaccine exemption claims
+Signal 1,Anti-vaccine / COVID-specific,4,medici.di.base,medici di base,GPs targeted in mandate campaigns
+Signal 1,Anti-vaccine / COVID-specific,4,booster\b|quarta.dose,"booster, quarta dose",Additional dose framing
+Signal 1,Anti-vaccine / COVID-specific,4,novax\b|nvacs\b,"novax, nvacs",Alphanumeric self-label variants
+Signal 1,Anti-vaccine / COVID-specific,4,novemax\b|novavax\b,Novavax,Late-period vaccine brand
+Signal 2,Health / medical discourse,3,salute\b|sanitari|sanit[àa]\b,"salute, sanitari, sanità",General health domain
+Signal 2,Health / medical discourse,3,medic[oi]\b|medica\b|medicine\b,"medico, medici, medica",Medical professional references
+Signal 2,Health / medical discourse,3,dottore|dott\.|dottor,"Dottore, Dott., Dottor",Credential display
+Signal 2,Health / medical discourse,3,infermier|ospedale|clinica\b,"infermiere, ospedale, clinica",Hospital/nursing contexts
+Signal 2,Health / medical discourse,3,terapia.intensiva|rianimazione,"terapia intensiva, rianimazione",ICU references
+Signal 2,Health / medical discourse,3,pandemia|epidemic|pandemi,"pandemia, epidemia",Pandemic framing
+Signal 2,Health / medical discourse,3,farmac[oi]\b|farmac[aeiou],"farmaco, farmaci, farmacia",Pharmaceutical references
+Signal 2,Health / medical discourse,3,big.pharma|case.farmaceu,"Big Pharma, case farmaceutiche",Industry conspiracy framing
+Signal 2,Health / medical discourse,3,cura\b|protocollo.tera,"cura, protocollo terapeutico",Alternative treatment protocols
+Signal 2,Health / medical discourse,3,oms\b|who\b|ema\b|aifa\b|fda\b,"OMS, WHO, EMA, AIFA, FDA",Regulatory bodies (adversarial use)
+Signal 2,Health / medical discourse,3,mascherina|distanziamento,"mascherina, distanziamento",NPI (mask/distancing) scepticism
+Signal 2,Health / medical discourse,3,sperimentazione|sperimentale,"sperimentazione, sperimentale",Experimental framing of vaccines
+Signal 2,Health / medical discourse,3,tossicit|tossicolog,"tossicità, tossicologico",Toxicological claims
+Signal 2,Health / medical discourse,3,autops|necroscop,"autopsia, necroscopia",Post-mortem evidence claims
+Signal 2,Health / medical discourse,3,corvelva|medici.in.campo,"Corvelva, Medici in Campo",Italian no-vax organisations
+Signal 2,Health / medical discourse,3,cura.precoce|early.treatment,"cura precoce, early treatment",Early treatment movement
+Signal 3,General conspiracy / disinformation,2,complotto|complottist,"complotto, complottismo",Conspiracy noun/label
+Signal 3,General conspiracy / disinformation,2,censura\b|censurato,"censura, censurato",Censorship claim
+Signal 3,General conspiracy / disinformation,2,libert[àa]\b|libertad,libertà,Freedom framing
+Signal 3,General conspiracy / disinformation,2,verit[àa]\b|nascosta\b,"verità, verità nascosta",Hidden-truth narrative
+Signal 3,General conspiracy / disinformation,2,risveglio\b|awakening|consapevol,"risveglio, awakening, consapevolezza",Awakening metaphor
+Signal 3,General conspiracy / disinformation,2,resistenza\b,resistenza,Civil resistance framing
+Signal 3,General conspiracy / disinformation,2,deep.state|stato.profondo,"deep state, stato profondo",Shadow government narrative
+Signal 3,General conspiracy / disinformation,2,grande.reset|great.reset|wef\b|schwab\b,"Grande Reset, WEF, Schwab",WEF conspiracy narrative
+Signal 3,General conspiracy / disinformation,2,soros\b|gates\b,"Soros, Gates",Named conspiracy targets
+Signal 3,General conspiracy / disinformation,2,agenda.2030|nuovo.ordine|nwo\b|illuminati,"Agenda 2030, NWO, Illuminati",Global governance conspiracy
+Signal 3,General conspiracy / disinformation,2,microchip\b|nanotecnolog,"microchip, nanotecnologia",Vaccine tracking-device claim
+Signal 3,General conspiracy / disinformation,2,5g\b|onde.elettromag,"5G, onde elettromagnetiche",5G-COVID conspiracy
+Signal 3,General conspiracy / disinformation,2,scie.chim|chemtrail|geoing|geoingegneria,"scie chimiche, chemtrail",Atmospheric conspiracy
+Signal 3,General conspiracy / disinformation,2,rettiliani|elite.globalist,"rettiliani, élite globalista",Extreme fringe markers
+Signal 3,General conspiracy / disinformation,2,inform[ao]|alternativ|mainstream,"informazione alternativa, mainstream",Alternative media positioning
+Signal 3,General conspiracy / disinformation,2,fake.news|disinformaz|propaganda\b|manipolaz|inganno\b,"fake news, propaganda, manipolazione",Meta-discourse about misinformation
+Signal 4,Political / civic,1,costituzion,"Costituzione, costituzionale",Constitutional rights framing
+Signal 4,Political / civic,1,diritti\b,diritti,Rights-based argumentation
+Signal 4,Political / civic,1,governo\b|governo.italiano,"governo, governo italiano",Government references
+Signal 4,Political / civic,1,manifestazione\b|protesta\b|piazza\b,"manifestazione, protesta, piazza",Street-level mobilisation
+Signal 4,Political / civic,1,elezioni\b,elezioni,Electoral discourse
+Signal 4,Political / civic,1,democrazia\b|sovranit[àa]\b,"democrazia, sovranità",Populist democratic framing
+Signal 4,Political / civic,1,globalismo\b|globalizzaz|populism,"globalismo, globalizzazione",Anti-globalisation framing
+Signal 4,Political / civic,1,trump\b|biden\b|musk\b,"Trump, Biden, Musk",US political figures
+Signal 4,Political / civic,1,russia\b|ucraina\b|nato\b|zelensky\b,"Russia, Ucraina, NATO, Zelensky",Geopolitical content
